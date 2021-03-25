@@ -1,0 +1,10 @@
+.blog{
+    border-bottom: 1px solid #eaeaea;
+    padding: 20px 5px;
+    margin: 25px 5px;
+}
+
+.title:hover{
+    color:tomato;
+    cursor: pointer;
+}
